@@ -6,7 +6,7 @@ ConfigVersion: ${project.version}
 
 # Bot token; 若不知道這是什麼，請看plugin頁面上的影片
 # 更改此選項後必須重新啟動服務器
-BotToken: "BOTTOKEN"
+BotToken: "OTExMTA1NDkwMDQwMjU4NjIw.YZcjHA.QW1wzjWF_lh-o4IcJfxrUA2-aTw"
 
 # 从游戏到不和谐的频道链接
 # 语法为 Channels: {"来自Minecraft的游戏中频道名称": "来自Discord的数字频道ID", "来自Minecraft的另一个游戏中频道名称": "来自Discord的另一个数字频道ID”}
@@ -26,10 +26,10 @@ BotToken: "BOTTOKEN"
 #
 # "频道对的第一部分不是Discord频道名称！
 # 更改此選項後必須重新啟動服務器
-Channels: {"global": "000000000000000000"}
+Channels: {"global": "932891330269577226"}
 
 # 控制台頻道ID,留白表示不使用
-DiscordConsoleChannelId: "000000000000000000"
+DiscordConsoleChannelId: "917673435021320272"
 
 # 使用 /discord 时显示给玩家的邀请链接，以及执行链接时显示给未链接的玩家的消息
 DiscordInviteLink: "https://discord.gg/changethisintheconfig.yml"
